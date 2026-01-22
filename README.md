@@ -1,1 +1,1 @@
-# Manual-Testting-Progress
+# Manual-Testing-Progress
