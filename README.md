@@ -49,7 +49,7 @@ I’m passionate about improving software quality through **systematic testing, 
 
 ## 📌 Testing Projects
 
-### 🔹 [E-Commerce Website Testing](link-to-repo)
+### 🔹 [(https://www.saucedemo.com/)
 **Description:** Manual testing of an e-commerce web application to ensure functional correctness and usability.
 
 - 📄 Artifacts:
@@ -62,7 +62,7 @@ I’m passionate about improving software quality through **systematic testing, 
 
 ---
 
-### 🔹 [Login Module Testing](link-to-repo)
+### 🔹 [https://www.facebook.com/](link-to-repo)
 **Description:** Designed test cases using **black-box test design techniques**.
 
 - ✍️ Techniques Used:
