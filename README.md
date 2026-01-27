@@ -74,15 +74,6 @@ I’m passionate about improving software quality through **systematic testing, 
 
 ---
 
-### 🔹 [API Testing Project] (Optional)
-**Description:** Tested REST APIs for data validation and error handling.
-
-- 🛠️ Tools: Postman
-- 🔍 Validated: Status codes, response body, schema
-- 📄 Documentation: Test cases & reports
-
----
-
 ## 📂 Documentation Samples
 
 - 📄 Test Plan (IEEE format)
@@ -102,7 +93,7 @@ I’m passionate about improving software quality through **systematic testing, 
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: [link]
+- 💼 LinkedIn: [https://www.linkedin.com/feed/]
 - 📄 Resume: [link]
 - 🌐 Portfolio: [link]
 
