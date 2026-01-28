@@ -29,7 +29,10 @@ I’m passionate about improving software quality through **systematic testing, 
 ## 🛠️ Tools & Technologies
 
 **Test Management**
-- TestRail / Jira 
+- TestRail / Jira
+- Google Chrome
+- Manual Testing Techniques
+- ISTQB Foundation Concepts
 
 **Defect Tracking**
 - Jira
